@@ -1,4 +1,3 @@
-
 - git:
     local-name: baxter_pick_and_place
     uri: https://github.com/BRML/baxter_pick_and_place.git
