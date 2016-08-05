@@ -12,3 +12,4 @@ These files can be used with wstool to install the mentioned frameworks.
 - **baxter_common**: customized version of the Baxter description.
 - **baxter_simulator**: the Baxter simulated in Gazebo.
 - **baxter_pykdl**: kinematics and dynamics of the Baxter research robot
+- **iai_kinect2**: connecting the Kinect v2 to ROS
