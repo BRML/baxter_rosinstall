@@ -8,11 +8,11 @@
     version: master
 - git:
     local-name: baxter_interface
-    uri: https://github.com/lude-ma/baxter_interface.git
+    uri: https://github.com/BRML/baxter_interface.git
     version: master
 - git:
     local-name: baxter_common
-    uri: https://github.com/lude-ma/baxter_common.git
+    uri: https://github.com/BRML/baxter_common.git
     version: master
 - git:
     local-name: baxter_simulator
