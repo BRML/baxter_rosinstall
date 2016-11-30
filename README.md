@@ -1,5 +1,5 @@
 # Baxter rosinstall files
-This repository holds rosinstall files for conveniently installing the BRML data acquisition (baxter_daq.rosinstall) and pick and place (baxter_pnp.rosinstall) frameworks for the Baxter research robot.
+This repository holds rosinstall files for conveniently installing the BRML data acquisition (baxter_daq.rosinstall) and Human-Baxter collaboration (baxter_pnp.rosinstall) frameworks for the Baxter research robot.
 These files can be used with wstool to install the mentioned frameworks.
 
 ## Description of installed ROS packages:
